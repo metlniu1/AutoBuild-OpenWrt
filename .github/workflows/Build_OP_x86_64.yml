@@ -1,12 +1,11 @@
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Author: eSirPlayground
-# Youtube Channel: https://goo.gl/fvkdwm 
+# Author: niu'niu
 #=================================================
 
 name: Build_x86_64
-
+niuniu
 # Add a button to trigger the workflow
 on: 
   repository_dispatch:
